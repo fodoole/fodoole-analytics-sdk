@@ -1,0 +1,80 @@
+[
+  {
+    "id": 41,
+    "name": "Google Pixel 7-5G",
+    "image": "http://127.0.0.1:3000/images/products/1.jpg",
+    "description": "About this item\r\nGoogle Pixel 7 is powered by Google Tensor G2; it’s faster, more efficient, and more secure, with the best photo and video quality yet on Pixel[1].Other camera description:Front,Rear\r\nUnlocked Android 5G phone gives you the flexibility to change carriers and choose your own data plan[2]; works with Google Fi, Verizon, T-Mobile, AT&T, and other major carriers\r\nPixel’s Adaptive Battery can last over 24 hours; when Extreme Battery Saver is turned on, it can last up to 72 hours[3]\r\nThe 6.3-inch Pixel 7 display is super sharp, with rich, vivid colors; it’s fast and responsive for smoother gaming, scrolling, and moving between apps[4]\r\nGoogle Pixel 7 has wide and ultrawide lenses with up to 8x Super Res Zoom[5]; and Cinematic Blur brings more drama to your videos\r\nWith Google Tensor G2 and the Titan M2 security chip, your Pixel is built with multiple layers of security to help keep your personal info safe",
+    "price": 575.9,
+    "category": { "id": 10, "name": "mobile phones" },
+    "tags": [
+      { "id": 12, "tagname": "google" },
+      { "id": 13, "tagname": "android" }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Google Pixel 7 Pro",
+    "image": "http://127.0.0.1:3000/images/media/products/2.jpg",
+    "description": "Google Pixel 7 Pro is Google’s best-of-everything phone; powered by Google Tensor G2, it’s faster, more efficient, and more secure, with the best photo and video quality yet on Pixel[1].Other camera description:Front,Rear\r\nUnlocked Android 5G phone gives you the flexibility to change carriers and choose your own data plan[2]; works with Google Fi, Verizon, T-Mobile, AT&T, and other major carriers\r\nPixel’s Adaptive Battery can last over 24 hours; when Extreme Battery Saver is turned on, it can last up to 72 hours[3]\r\nThe Google Pixel 7 Pro 6.7-inch Smooth Display makes everything stunning and immersive[4]; it intelligently adjusts up to 120Hz for smoother, more responsive performance[4]\r\nGoogle Pixel 7 Pro has a 5x telephoto lens with 30x Super Res Zoom[5]; the upgraded ultrawide lens powers Macro Focus to capture the smallest details\r\nWith Google Tensor G2 and the Titan M2 security chip, your Pixel is built with multiple layers of security to help keep your personal info safe",
+    "price": 694.0,
+    "category": { "id": 10, "name": "mobile phones" },
+    "tags": [
+      { "id": 12, "tagname": "google" },
+      { "id": 13, "tagname": "android" }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Google Pixel 6a",
+    "image": "http://127.0.0.1:3000/images/media/products/Google_Pixel_6a.jpg",
+    "description": "The product is refurbished, fully functional, and in excellent condition. Backed by the 90-day Amazon Renewed Guarantee.\r\n- This pre-owned product has been professionally inspected, tested and cleaned by Amazon qualified vendors.\r\n- This product is in \"Excellent condition\". The screen and body show no signs of cosmetic damage visible from 12 inches away.\r\n- This product will have a battery that exceeds 80% capacity relative to new.\r\n- Accessories may not be original, but will be compatible and fully functional. Product may come in generic box.\r\n- Product will come with a SIM removal tool, a charger and a charging cable. Headphone and SIM card are not included.\r\n- This product is eligible for a replacement or refund within 90-days of receipt if it does not work as expected.",
+    "price": 232.9,
+    "category": { "id": 10, "name": "mobile phones" },
+    "tags": [
+      { "id": 12, "tagname": "google" },
+      { "id": 13, "tagname": "android" }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "SAMSUNG Galaxy Z Fold",
+    "image": "http://127.0.0.1:3000/images/media/products/SAMSUNG_Galaxy_Z_Fold.jpg",
+    "description": "About this item\r\nFLEX MODE: Free up your hands with Flex Mode on the Galaxy Z Fold4; This smartphone stands on its own so you can take notes during a conference call or follow along with instructional videos in real time.Form_factor : Fold\r\nHANDS FREE VIDEO: Don’t stay stuck to your cellphone; Set up your phone in Flex Mode and check off your to-dos while catching up with friends; Hands-free video chat lets you multitask and move freely while staying in frame\r\nMULTI-VIEW WINDOW: Easily attend a virtual work meeting and capture important notes at the same time, or catch up on your favorite shows as you answer texts; With multiple windows, doing different tasks is easy with Galaxy Z Fold4\r\nS PEN READY: Transform your Galaxy Z Fold4 into a multifunctional device with S Pen; It gives you that pen-on-paper feeling and makes it easy to take notes while attending virtual meetings, drag and drop content, and get more done",
+    "price": 1767.99,
+    "category": { "id": 10, "name": "mobile phones" },
+    "tags": [
+      { "id": 13, "tagname": "android" },
+      { "id": 14, "tagname": "samsung" }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "SAMSUNG Galaxy Z Flip 4",
+    "image": "http://127.0.0.1:3000/images/media/products/SAMSUNG_Galaxy_Z_Flip_4.jpg",
+    "description": "Brand\tSAMSUNG\r\nModel Name\tGalaxy Z Flip4\r\nWireless Carrier\tUnlocked for All Carriers\r\nOperating System\tAndroid\r\nCellular Technology\t5G\r\nMemory Storage Capacity\t256 GB\r\nConnectivity Technology\tBluetooth, USB\r\nColor\tBlue\r\nWireless network technology\tWi-Fi\r\nRam Memory Installed Size\t8 GB",
+    "price": 1043.0,
+    "category": { "id": 10, "name": "mobile phones" },
+    "tags": [
+      { "id": 13, "tagname": "android" },
+      { "id": 14, "tagname": "samsung" }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "iPhone 13 Pro Max, 256GB",
+    "image": "http://127.0.0.1:3000/images/media/products/iPhone_13_Pro_Max_256GB.jpg",
+    "description": "Brand\tApple\r\nModel Name\tiPhone 13 Pro Max\r\nWireless Carrier\tUnlocked for All Carriers\r\nOS\tiOS 16\r\nCellular Technology\t5G\r\nMemory Storage Capacity\t256 GB\r\nConnectivity technologies\tWi-Fi\r\nColor\tSierra Blue\r\nScreen Size\t6.7 Inches\r\nWireless network technology\tGSM",
+    "price": 1050.0,
+    "category": { "id": 10, "name": "mobile phones" },
+    "tags": [{ "id": 15, "tagname": "apple" }]
+  },
+  {
+    "id": 47,
+    "name": "iPhone 13, 128GB,",
+    "image": "http://127.0.0.1:3000/images/media/products/iPhone_13_128GB.jpg",
+    "description": "Brand\tApple\r\nModel Name\tiPhone 13\r\nWireless Carrier\tUnlocked for All Carriers\r\nOS\tiOS 16\r\nCellular Technology\t5G\r\nMemory Storage Capacity\t128 GB\r\nConnectivity technologies\tBluetooth\r\nColor\tMidnight\r\nScreen Size\t6 Inches\r\nWireless network technology\tGSM",
+    "price": 668.0,
+    "category": { "id": 10, "name": "mobile phones" },
+    "tags": [{ "id": 15, "tagname": "apple" }]
+  }
+]

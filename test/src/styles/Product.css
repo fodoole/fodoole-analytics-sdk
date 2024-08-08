@@ -1,0 +1,99 @@
+.productContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  background-color: #282c34;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  color: white;
+  font-family: "Lucida Console", Courier, monospace;
+}
+
+.productImage {
+  max-width: 50%;
+  max-height: 500px;
+  border-radius: 5px;
+  margin-right: 20px;
+}
+
+.productDetails {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 50%;
+}
+
+.productTitle {
+  color: #61dafb;
+  margin: 0 0 10px 0;
+}
+
+.productPrice {
+  font-weight: bold;
+  margin: 0 0 10px 0;
+}
+
+.productButton {
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-family: "Lucida Console", Courier, monospace;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+.addToCartButton {
+  background-color: #61dafb;
+}
+
+.addToWishlistButton {
+  background-color: #f22b3e;
+}
+
+#add-to-wishlist-test {
+  background-color: pink;
+  color: black;
+  border: none;
+  border-radius: 5px;
+  font-family: "Lucida Console", Courier, monospace;
+  padding: 5px 10px;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+.buttonCarrousel {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.desc {
+  margin-top: 120vh;
+  padding: 20px;
+  background: #f9f9f9;
+  color: black;
+  border-radius: 10px;
+  font-family: "Lucida Console", Courier, monospace;
+  /* width: 100%; */
+  /* max-width: 90%; */
+  background-color: #282c34;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.relatedProduct {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  background-color: #333;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  min-height: 285px;
+  max-width: 200px;
+}
