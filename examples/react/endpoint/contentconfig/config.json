@@ -1,0 +1,36 @@
+{
+  "analyticsEndpoint": "http://localhost:8080/log",
+  "recommendationEndpoint": "http://qeen-web-analytics/recommended",
+  "searchEndpoint": "http://qeen-web-analytics/search-results",
+  "telemetryEndpoint": "http://qeen-web-analytics/telemetry",
+  "searchAnalyticsEndpoint": "http://qeen-web-analytics/search-logging",
+  "projectId": "123456789",
+  "contentServingId": "123456789123456789",
+  "contentId": "optimised",
+  "enableContentGeneration": true,
+  "idleTime": 300000,
+  "gtagIntegrationEnabled": true,
+  "gtagLabels": ["ADD_TO_CART", "NAME", "CHECKOUT", "SUBMIT"],
+  "rawContentSelectors": [
+    { 
+      "uid": "1",
+      "path": "#name",
+      "value": "{{nameToBeReplaced}}"
+    },
+    {
+      "uid": "2",
+      "path": "#description",
+      "value": "{{descriptionToBeReplaced}}"
+    }
+  ],
+  "contentSelectors": {
+    "#name": "{{nameToBeReplaced}}",
+    "#description": "{{descriptionToBeReplaced}}"
+  },
+  "searchAnalyticsEnabled": false,
+  "searchAutoCompleteEnabled": false,
+  "searchBoxSelector": "",
+  "autoCompleteSelector": "",
+  "searchClickEvents": [],
+  "checkoutAmountSelector": ""
+}

@@ -1,0 +1,36 @@
+{
+  "count": 2,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": 48,
+      "name": "Laptop HP Spectre x360 13.5",
+      "image": "http://127.0.0.1:3000/images/products/spec1-128x128.jpg",
+      "description": "Processor Generation\t13th Generation\r\nProcessor Family\tIntel Core i7-1355U\r\nProcessor Speed\t3.70 GHz up to 5.00 GHz\r\nProcessor Cache\t12MB\r\nNumber of Cores\t10 Cores - 12 Threads",
+      "price": 1379.0,
+      "category": { "id": 11, "name": "laptops" },
+      "tags": [
+        { "id": 16, "tagname": "hp" },
+        { "id": 17, "tagname": "gaming" },
+        { "id": 18, "tagname": "windos11" }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Laptop ASUS ROG Strix G15 Ryzen™ AMD Ryzen™ 9 6900HS Mobile Processor",
+      "image": "http://127.0.0.1:3000/images/Laptop_ASUS_ROG_Strix_G15_Ryzen_.jpg",
+      "description": "AMD Ryzen™ 9 6900HS Mobile Processor (8-core/16-thread, 20MB cache,3.30 up to 4.9 GHz max boost)\r\n\r\nRam : 16 GB DDR5 ,SSD :1TB SSD NVME M.2  ,Graphics Card  :NVIDIA GeForce RTX 3060  (6GB DDR6 dedicated)\r\n\r\nDisplay: 15.6-inch,FHD 300Hz (1920 x 1080) 16:9,anti-glare display,sRGB:62.5%,Adobe:47.34%:,Value IPS-level\r\n\r\nROM: NAN   Others: WiFi, Bluetooth, Camera,Keyboard :Backlit Chiclet Keyboard 4-Zone RGB\r\n\r\nOS: Windows 11 Home +  external camera :FHD 1080P@60FPS",
+      "price": 1249.0,
+      "category": { "id": 11, "name": "laptops" },
+      "tags": [
+        { "id": 12, "tagname": "google" },
+        { "id": 13, "tagname": "android" },
+        { "id": 14, "tagname": "samsung" },
+        { "id": 15, "tagname": "apple" },
+        { "id": 16, "tagname": "hp" },
+        { "id": 17, "tagname": "gaming" }
+      ]
+    }
+  ]
+}

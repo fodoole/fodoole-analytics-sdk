@@ -1,0 +1,8 @@
+# Dependencies
+/node_modules
+
+# Next.js
+/.next
+
+# dockerfile
+/Dockerfile

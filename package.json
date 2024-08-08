@@ -1,0 +1,43 @@
+{
+  "name": "fodoole-analytics-sdk",
+  "version": "1.0.0",
+  "description": "Fodoole Analytics SDK",
+  "main": "core.js",
+  "scripts": {
+    "test": "npx jest test --watchAll=false --testTimeout=90000 --verbose --maxWorkers=1",
+    "start": "node index.js",
+    "build": "tsc && webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fodoole/fodoole-analytics-sdk.git"
+  },
+  "keywords": [
+    "fodoole",
+    "fodoole-js",
+    "analytics",
+    "ai"
+  ],
+  "author": "Fodoole Fodoole LLC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fodoole/fodoole-analytics-sdk/issues"
+  },
+  "homepage": "https://github.com/fodoole/fodoole-analytics-sdk#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.25.0",
+    "@babel/preset-typescript": "^7.24.7",
+    "@google-cloud/bigquery": "^7.8.0",
+    "babel-jest": "^29.7.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jest": "^29.7.0",
+    "puppeteer": "^22.13.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.5.4",
+    "webpack": "^5.93.0",
+    "webpack-cli": "^5.1.4"
+  }
+}

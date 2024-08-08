@@ -1,0 +1,8 @@
+# Dependencies
+/node_modules
+
+# disr
+/dist
+
+# dockerfile
+/dockerfile

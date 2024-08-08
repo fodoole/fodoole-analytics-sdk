@@ -1,0 +1,49 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin-top: -71px;
+  background-color: #282c34;
+  color: white;
+  text-align: center;
+  font-family: "Lucida Console", Courier, monospace;
+}
+
+.content {
+  font-size: 1.2rem;
+  margin: 20px;
+  max-width: 600px;
+  line-height: 1.6;
+}
+
+.amount {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #61dafb;
+}
+
+.button {
+  font-size: 1rem;
+  font-family: "Lucida Console", Courier, monospace;
+  font-weight: bold;
+  color: #fff;
+  background-color: #61dafb;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.successMessage {
+  color: limegreen;
+  font-size: 1.2rem;
+  margin-top: 20px;
+}
+
+/* Add hover effect for button */
+.button:hover {
+  background-color: #4f9ac8;
+}

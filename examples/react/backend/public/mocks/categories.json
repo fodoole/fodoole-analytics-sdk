@@ -1,0 +1,10 @@
+{
+  "count": 3,
+  "next": null,
+  "previous": null,
+  "results": [
+    { "id": 11, "name": "laptops" },
+    { "id": 10, "name": "mobile phones" },
+    { "id": 15, "name": "other" }
+  ]
+}

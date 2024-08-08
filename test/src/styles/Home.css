@@ -1,0 +1,61 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin-top: -71px;
+  background-color: #282c34;
+  color: white;
+  text-align: center;
+  font-family: "Lucida Console", Courier, monospace;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-row-gap: 20px;
+  grid-column-gap: 20px;
+}
+
+.content {
+  font-size: 1.2rem;
+  margin: 20px;
+  max-width: 600px;
+  line-height: 1.6;
+}
+
+.productContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  background-color: #333;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  min-height: 285px;
+}
+
+.product {
+  max-width: 350px;
+}
+
+.productImage {
+  max-width: 50%;
+  max-height: 500px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.productTitle {
+  color: #61dafb;
+  margin: 10px 0;
+}
+
+.productPrice {
+  color: #fff;
+  font-weight: bold;
+}
